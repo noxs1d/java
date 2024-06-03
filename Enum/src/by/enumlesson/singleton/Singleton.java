@@ -8,6 +8,9 @@ public enum Singleton {
     INSTANCE;
     private BlockingDeque<Car> cars;
 
+    Singleton() {
+    }
+
     Singleton(BlockingDeque<Car> cars) {
         this.cars = cars;
         //some code
