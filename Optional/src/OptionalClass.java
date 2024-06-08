@@ -8,6 +8,7 @@ public class OptionalClass {
         System.out.println("There is null: "+/*optionalEmpty.get() + */ optionalEmpty.orElse("Null"));
         // u cannot call optional.get() while optional is empty, it will invoke
         String nullstring =null;
+
         Optional<String> optionalnull=Optional.ofNullable(nullstring);
         System.out.println(optionalnull.or(()->Optional.of("null value or this value")));
     }
