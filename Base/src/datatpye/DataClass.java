@@ -17,6 +17,10 @@ public class DataClass {
         var var=2;
         System.out.println(var3>>var);
         System.out.println(var3>>>var);
+        int s = 304111;//if it is short it will give exception out of range
+        short s1 = (short) 304111;
+        System.out.println(s + " "+ s1);
+
     }
     static int math(long x, long y){
         return Math.abs((int)Math.max(Math.sqrt((double)x),Math.cbrt((double)y)));//math
