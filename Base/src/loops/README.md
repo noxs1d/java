@@ -6,7 +6,7 @@ The purpose of this exercise is to familiarize you with simple conditional state
 Estimated workload of this exercise is _20 min_.
 
 ### Description
-Please, proceed to [MeetAnAgent](src/main/java/com/epam/rd/autotasks/meetanagent/MeetAnAgent.java) class
+Please, proceed to [MeetAnAgent](conditions/MeetAnAgent.java) class
 and write a program that:
 - asks for an input number,
 - if the input equals to the secret password number, prints "Hello, Agent",
@@ -36,7 +36,7 @@ Estimated workload of this exercise is _20 min_.
 
 ### Description
 
-Please, proceed to [HelloStrangers](src/main/java/com/epam/rd/autotasks/meetstrangers/HelloStrangers.java) class
+Please, proceed to [HelloStrangers](conditions/HelloStrangers.java) class
 and write a program that:
 - asks for a number - amount of strangers to meet,
 - then reads stranger names line by line 
@@ -101,7 +101,7 @@ Estimated workload of this exercise is _30 min_.
 ### Description
 Consider a snail travels up a tree `a` feet each day. Then snail slides down `b` feet each night. Height of the tree is `h` feet.
 
-Please, proceed to [Snail](/src/main/java/com/epam/rd/autotasks/snail/Snail.java) class 
+Please, proceed to [Snail](conditions/Snail.java) class 
 and write a program that prints number of days for the snail to reach the top of the tree.
 
 Program reads `a`, `b`, `h` line by line. Input values are guaranteed to be positive integers.
@@ -178,7 +178,7 @@ They decided to equally split the bill.
 Friends decided to add 10 percent of the bill total amount as tips.
 Then they cover the total payment in equal parts.
 
-Please, proceed to [GoDutch](./src/main/java/com/epam/rd/autotasks/godutch/GoDutch.java) class
+Please, proceed to [GoDutch](conditions/GoDutch.java) class
 and write a program that reads a bill total amount and a number of friends, and then prints part to pay.
 
 Consider some details:
@@ -206,7 +206,7 @@ Estimated workload of this exercise is _20 min_.
 
 ### Description
 
-Please, proceed to [FindMaxInSeq](src/main/java/com/epam/rd/autotasks/sequence/FindMaxInSeq.java)
+Please, proceed to [FindMaxInSeq](conditions/FindMaxInSeq.java)
 and write a program that reads a sequence of integer values from standard output and finds the maximum value. You must
 place your solution into the `max`  method to pass tests.
 
@@ -237,7 +237,7 @@ Estimated workload of this exercise is _20 min_.
 
 ### Description
 
-Please, proceed to [Average](src/main/java/com/epam/rd/autotasks/Average.java) class
+Please, proceed to [Average](conditions/Average.java) class
 and write a program that reads a sequence of integer values from standard input and finds the average value.
 
 Details:
@@ -277,7 +277,7 @@ The purpose of this exercise is to familiarize you with basic conditional and cy
 Estimated workload of this exercise is _20 minutes_.
 
 ### Description
-Please, proceed to [PizzaSplit](src/main/java/com/epam/rd/autotasks/pizzasplit/PizzaSplit.java) class.
+Please, proceed to [PizzaSplit](conditions/PizzaSplit.java) class.
 The program must read two values from `System.in`:
 - number of people;
 - number of pieces per pizza.
@@ -303,7 +303,7 @@ Estimated workload of this exercise is _30 min_.
 
 ### Description
 
-Please, proceed to the [QuadraticEquation](src/main/java/com/epam/rd/autotasks/QuadraticEquation.java)
+Please, proceed to the [QuadraticEquation](conditions/QuadraticEquation.java)
 class and implement a program to solve quadratic equations.
 
 For the given quadratic equation coefficients (**ax<sup>2</sup> + bx + c = 0**),
