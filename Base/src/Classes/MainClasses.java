@@ -35,6 +35,11 @@ public class MainClasses {
         this.name = name;
     }
 
+    public MainClasses(int data) {
+        this(data,"John");//calling another constructor by keyword this
+        // and the referring constructor should come first
+    }
+
     public int getData() {
         return data;
     }
