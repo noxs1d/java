@@ -1,5 +1,4 @@
-package com.epam.rd.autotasks.intersection;
-
+package Classes.epam.intersection;
 public class Point {
     private final int x;
     private final int y;

@@ -1,5 +1,4 @@
-package com.epam.rd.autotasks.intersection;
-
+package Classes.epam.intersection;
 import java.util.Scanner;
 
 public class Main {

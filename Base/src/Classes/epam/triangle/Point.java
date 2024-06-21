@@ -1,4 +1,4 @@
-package Classes.epam.segment;
+package Classes.epam.triangle;
 
 class Point {
     private double x;

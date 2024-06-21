@@ -1,4 +1,4 @@
-package com.epam.rd.autotasks.segments;
+package Classes.epam.segment;
 
 import static java.lang.Math.abs;
 import static java.lang.Math.sqrt;

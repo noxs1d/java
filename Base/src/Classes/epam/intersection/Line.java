@@ -1,4 +1,4 @@
-package com.epam.rd.autotasks.intersection;
+package Classes.epam.intersection;
 
 public class Line {
      int k,b;
