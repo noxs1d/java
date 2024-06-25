@@ -1,4 +1,4 @@
-package Static;
+package inheritance;
 
 public class Inheritance {
 
