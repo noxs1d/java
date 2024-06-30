@@ -5,5 +5,7 @@ public class Main {
         Graphic graphic=new Circle();
         graphic.draw();
         graphic.call();
+        graphic=new Cube();
+        graphic.draw();
     }
 }
