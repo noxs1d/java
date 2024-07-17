@@ -1,4 +1,4 @@
-package com.epam.rd.autotasks.figures;
+package src.com.epam.rd.autotasks.figures;
 
 class Circle extends Figure{
     private Point center;
